@@ -1,4 +1,6 @@
-# ORB-SLAM2
+# ORB-SLAM2 with Periodic Depth Enhancement
+This work implements the approaches of the paper XXX into the ROS implementation of ORB-SLAM 2 (URL TBD). The original authors of ORB-SLAM2 are as follows:
+
 **ORB-SLAM2 Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2)).
 The original implementation can be found [here](https://github.com/raulmur/ORB_SLAM2.git).
 
